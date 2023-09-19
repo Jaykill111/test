@@ -7,8 +7,7 @@ body {
     align-items: center;
     flex-direction: column;
     width: 100dvw;
-    height: 100dvh; 
-    overflow: hidden;
+    height: 100dvh;
     font-family: Verdana, Tahoma, sans-serif;
 }
 
