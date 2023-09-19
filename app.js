@@ -28,14 +28,13 @@ class FaceBook {
         }
     
     e.stopPropagation();
-    };
+};
     
     getURL() {
         location.href("https://www.facebook.com/HoangQuan11105", '_blank' );
     };
-    }
-    
-    export default FaceBook;
+}
+export default FaceBook;
 
 
 const shareButtons = document.querySelectorAll('.tile-share-button')
