@@ -114,10 +114,6 @@ a {
     height: 44px;
 }
 
-.footer {
-    margin-top: 150px;
-}
-
 body::-webkit-scrollbar {
     display: hide;
 }
