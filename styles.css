@@ -6,8 +6,8 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
-    width: 100dvw;
-    height: 100dvh;
+    width: 100%;
+    min-height: 100vh;
     font-family: Verdana, Tahoma, sans-serif;
 }
 
