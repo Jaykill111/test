@@ -117,6 +117,7 @@ a {
 footer {
     margin-top: 40px;
     font-size: 10px;
+    background-color: black;
 }
 
 body::-webkit-scrollbar {
