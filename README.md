@@ -1,2 +1,2 @@
 # linktree-clone-css-js
-Build a Linktree Clone! (super simple!) HTML + CSS (+ JS optional)
+By Jaykill Link Tree Desgin Custom.
