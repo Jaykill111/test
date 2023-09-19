@@ -115,9 +115,9 @@ a {
 }
 
 .footer {
-    margin-top: 210px;
+    margin-top: 150px;
 }
 
 body::-webkit-scrollbar {
-    display: none;
+    display: hide;
 }
