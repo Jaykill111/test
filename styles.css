@@ -114,11 +114,6 @@ a {
     height: 44px;
 }
 
-footer {
-    margin-top: 40px;
-    font-size: 10px;
-}
-
 body::-webkit-scrollbar {
     display: hide;
 }
